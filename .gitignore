@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# Whisper model files are large; download them instead of committing
+models/
+*.bin
